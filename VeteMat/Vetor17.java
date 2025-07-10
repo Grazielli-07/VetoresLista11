@@ -1,4 +1,5 @@
-
+//Leia um vetor de 10 posic¸oes e atribua valor 0 para todos os elementos que possu ˜ ´ırem
+//valores negativos.
 import java.util.Scanner;
 
 public class Vetor17 {
