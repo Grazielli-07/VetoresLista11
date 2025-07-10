@@ -1,4 +1,6 @@
-
+//Fac¸a um programa que receba do usuario dois vetores, ´ A e B, com 10 numeros inteiros ´
+//cada. Crie um novo vetor denominado C calculando C = A - B. Mostre na tela os dados
+//do vetor C
 import java.util.Scanner;
 
 public class Vetor21 {
