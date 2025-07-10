@@ -1,3 +1,5 @@
+//Fac¸a um programa que leia um vetor de 10 numeros. Leia um n ´ umero ´ x. Conte os
+//multiplos de um n ´ umero inteiro ´ x num vetor e mostre-os na tela
 import java.util.Scanner;
 
 public class Vetor18 {
