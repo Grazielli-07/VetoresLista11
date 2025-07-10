@@ -1,4 +1,6 @@
-
+// Fac¸a um programa que leia dois vetores de 10 posic¸oes e calcule outro vetor contendo, ˜
+//nas posic¸oes pares os valores do primeiro e nas posic¸ ˜ oes impares os valores do se- ˜
+//gundo.
 import java.util.Scanner;
 
 public class Vetor22 {
