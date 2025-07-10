@@ -1,4 +1,6 @@
-
+//Escreva um programa que leia numeros inteiros no intervalo [0,50] e os armazene em um ´
+//vetor com 10 posic¸oes. Preencha um segundo vetor apenas com os n ˜ umeros ´ ´ımpares
+//do primeiro vetor. Imprima os dois vetores, 2 elementos por linha.
 import java.util.Scanner;
 
 public class Vetor20 {
