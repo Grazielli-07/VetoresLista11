@@ -1,4 +1,5 @@
-
+// Crie um programa que le 6 valores inteiros e, em seguida, mostre na tela os valores lidos ˆ
+//na ordem inversa.
 import java.util.Scanner;
 
 public class Vetor8 {
