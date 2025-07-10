@@ -1,4 +1,4 @@
-
+//Leia um vetor de 10 posic¸oes. Contar e escrever quantos valores pares ele possui
 import java.util.Scanner;
 
 public class Vetor5 {
