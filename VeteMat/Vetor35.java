@@ -1,3 +1,10 @@
+//. Fac¸a um programa que leia dois numeros ´ a e b (positivos menores que 10000) e:
+//• Crie um vetor onde cada posic¸ao ˜ e um algarismo do n ´ umero. A primeira posic¸ ´ ao ˜ e´
+//o algarismo menos significativo;
+//• Crie um vetor que seja a soma de a e b, mas fac¸a-o usando apenas os vetores
+//constru´ıdos anteriormente.
+//Dica: some as posic¸oes correspondentes. Se a soma ultrapassar 10, subtraia 10 do ˜
+//resultado e some 1 a pr ` oxima posic¸ ´ a
 import java.util.Scanner;
 public class Vetor35 {
     public static void main(String[] args) {
