@@ -1,4 +1,8 @@
-
+//Fac¸a um programa que receba 6 numeros inteiros e mostre: ´
+//• Os numeros pares digitados; ´
+//• A soma dos numeros pares digitados; ´
+//• Os numeros ´ ´ımpares digitados;
+//• A quantidade de numeros ´ ´ımpares digitados;
 import java.util.Scanner;
 
 public class Vetor29 {
