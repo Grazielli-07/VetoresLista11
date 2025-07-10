@@ -1,4 +1,5 @@
-
+//Fac¸a um programa que receba do usuario um vetor com 10 posic¸ ´ oes. Em seguida dever ˜ a´
+//ser impresso o maior e o menor elemento do vetor.
 import java.util.Scanner;
 
 public class Vetor6 {
