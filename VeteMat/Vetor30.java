@@ -1,3 +1,6 @@
+//Fac¸a um programa que leia dois vetores de 10 elementos. Crie um vetor que seja a
+//intersecc¸ao entre os 2 vetores anteriores, ou seja, que cont ˜ em apenas os n ´ umeros que ´
+//estao em ambos os vetores. N ˜ ao deve conter n ˜ umeros repetidos.
 import java.util.Scanner;
 
 public class Vetor30 {
