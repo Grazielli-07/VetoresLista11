@@ -1,3 +1,4 @@
+//Crie um programa que le 6 valores inteiros e, em seguida, mostre na tela os valores lidos. ˆ
 import java.util.Scanner;
 public class Vetor2 {
     public static void main(String[] args) {
