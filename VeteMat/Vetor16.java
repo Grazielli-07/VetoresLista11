@@ -1,4 +1,7 @@
-
+// Fac¸a um programa que leia um vetor de 5 posic¸oes para n ˜ umeros reais e, depois, um ´
+//codigo inteiro. Se o c ´ odigo for zero, finalize o programa; se for 1, mostre o vetor na ordem ´
+//direta; se for 2, mostre o vetor na ordem inversa. Caso, o codigo for diferente de 1 e 2 ´
+//escreva uma mensagem informando que o codigo ´ e inv ´ alido
 import java.util.Scanner;
 
 public class Vetor16 {
