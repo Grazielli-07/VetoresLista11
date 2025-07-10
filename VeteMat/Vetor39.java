@@ -1,4 +1,5 @@
-
+// Escreva um programa que leia um numero inteiro positivo ´ n e em seguida imprima n
+//linhas do chamado Triangulo de Pascal:
 import java.util.Scanner;
 
 public class Vetor39 {
