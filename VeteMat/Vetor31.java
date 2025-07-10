@@ -1,3 +1,6 @@
+//Fac¸a um programa que leia dois vetores de 10 elementos. Crie um vetor que seja a uniao ˜
+//entre os 2 vetores anteriores, ou seja, que contem os n ´ umeros dos dois vetores. N ´ ao ˜
+//deve conter numeros repetidos.
 import java.util.Scanner;
 public class Vetor31 {
     public static void main(String[] args) {
