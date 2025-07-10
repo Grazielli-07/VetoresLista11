@@ -1,3 +1,4 @@
+//Fac¸a um programa que preencha um vetor de tamanho 100 com os 100 primeiros naturais que nao s ˜ ao m ˜ ultiplos de 7 ou que terminam com 7.
 public class Vetor25 {
     public static void main(String[] args) {
         
