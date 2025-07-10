@@ -1,4 +1,5 @@
-
+// Fac¸a um programa que leia um vetor de 10 posic¸oes e verifique se existem valores iguais ˜
+//e os escreva na tela.
 import java.util.Scanner;
 
 public class Vetor14 {
